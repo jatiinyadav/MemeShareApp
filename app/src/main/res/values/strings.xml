@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ShareMemes</string>
+    <string name="next">Next</string>
+    <string name="share">Share</string>
+    <string name="developer">Developer</string>
+    <string name="todo">TODO</string>
+    <string name="jatin_yadav">© Jatin Yadav</string>
+</resources>
