@@ -1,5 +1,5 @@
 # Meme-Share
-An android app which lets you share memes among your friends.
+An android app which let's you share memes among your friends.
 
 ## Connect with me
 <a href="https://github.com/jatiinyadav" target="_blank">
