@@ -6,6 +6,9 @@ An android app which let's you share memes among your friends.
 This project includes [MIT License](/LICENSE).
 
 ## Connect with me
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://jatiinyadav.github.io/)
+
 <a href="https://github.com/jatiinyadav" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
